@@ -1,0 +1,11 @@
+*.swp
+
+.gradle/
+/build/
+
+.vscode/
+
+.project
+.settings/
+.classpath
+.idea/
