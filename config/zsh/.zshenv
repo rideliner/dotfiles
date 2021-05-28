@@ -9,10 +9,6 @@ export QUOTING_STYLE=literal
 
 export EDITOR=nvim
 
-export HISTFILE=$XDG_DATA_HOME/zsh_history
-export HISTSIZE=10000
-export SAVEHIST=10000
-
 # keep only the first occurences
 typeset -gU cdpath fpath mailpath path
 
