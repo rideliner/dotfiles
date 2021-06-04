@@ -1,5 +1,9 @@
 
-- clean: ['~']
+- clean:
+    ~/:
+      force: true
+    ~/.config:
+      recursive: true
 
 - create:
   - ~/workspace

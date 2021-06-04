@@ -27,6 +27,8 @@ cask "flameshot"
 cask "wireshark" # network analyzer
 cask "zoom"
 cask "bitwarden"
+cask "docker"
+cask "rectangle"
 
 cask "spotify"
 
